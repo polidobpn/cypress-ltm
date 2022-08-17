@@ -1,0 +1,14 @@
+{
+  "name": "marketplace",
+  "version": "1.0.0",
+  "description": "Projeto Marketplace",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Vitor Nathale",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
